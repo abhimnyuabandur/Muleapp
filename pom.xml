@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.mule.tools</groupId>
 	<artifactId>maven-mule-plugin</artifactId>
-    <version>1.6</version>
+    <version>1.8</version>
     <packaging>mule</packaging>
 	<name>Mule muleonheroku Application</name>
 
